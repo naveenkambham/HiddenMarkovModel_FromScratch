@@ -1,7 +1,6 @@
 """
 Title:Implement HMM run various work flows to understand the system.
 Developer : Naveen Kambham
-ID:nkk300
 Description: This is a simple two state HMM model implemented using matrices. It has various workflows and methods to
              Caliculate Transition, observation matrices.
 
